@@ -162,3 +162,494 @@ body{
      position: fixed;
      display: none;
 }
+
+
+@media (max-width: 1200px) and (min-width :920px)
+{
+   
+    /* #aniket > article >main >#div1{
+        justify-content: space-evenly;
+    } */
+    #aniket > article >main >#div1>#search{
+        padding: 10px;
+        width: 135px;
+        margin-right: 20px;
+      
+    }
+    #aniket > article >main >#div1 > #btn
+    {
+      margin-right: 10px;
+    }
+    #aniket > article >main >#div2 > #img1
+    {
+     margin-right: 20px;
+    }
+    #aniket > article >main >#div2 > #rainy
+    {
+     margin-right: 20px;
+     font-size: 17px;
+    }
+    #aniket > article >main >#div3 > #display_loc
+    {
+     padding-right: 20px;
+     font-size: 25px;
+    }
+    #aniket > article >main >#div3 > #display_temp
+    {
+     padding-right: 20px;
+     font-size: 15px;
+
+    }
+
+}
+
+    @media (max-width: 920px) and (min-width :770px)
+    {
+        #aniket >article >main
+         {
+            width: 35%;
+            height: 80vh;
+          /* position: fixed;   */
+         } 
+  #aniket > article >main >#div1 > #search
+  {
+    width: 120px;
+    font-size: 11px;
+    margin-right: 13px;
+  }
+  #aniket > article >main >#div1 > #btn
+  {
+    width: 120px;
+    font-size: 11px;
+    margin-right: 13px;
+  }
+  
+  #aniket > article >main >#div3 > #display_loc
+  {
+   padding-right: 20px;
+   font-size: 25px;
+  }
+  #aniket > article >main >#div3 > #display_temp
+  {
+   padding-right: 20px;
+   font-size: 15px;
+
+  }
+  #aniket > article >main >#div2 > #img1
+  {
+   padding-right: 20px;
+  }
+  #aniket > article >main >#div2 > #rainy
+  {
+   padding-right: 20px;
+   font-size: 14px;
+  }
+
+}
+  
+  
+
+    @media (max-width: 770px) and (min-width :643px)
+    {
+         #aniket >article >main
+         {
+            width: 40%;
+            height: 80vh;
+          /* position: fixed;   */
+         } 
+        #aniket > article >main >#div1
+        {
+            gap: 10px;
+        }
+        #aniket > article >main >#div1 > #search
+        {
+          width: 80px;
+          font-size: 7px;
+          margin-right: 10px;
+          
+        }
+        #aniket > article >main >#div1 > #btn
+        {
+          width: 80px;
+          font-size: 7.1px;
+          margin-right: 20px;
+        }
+        #aniket > article >main >#div4 
+        {
+            justify-content: space-around;
+        }
+        #aniket > article >main >#div4 > #aside1
+              {
+                          font-size: 11px;
+                          /* margin-left: 10px; */
+                          padding-right: 20px;
+            }
+            #aniket > article >main >#div4 > #aside2
+             {
+                   font-size: 11px;
+                   padding-right: 10px;
+               }
+               #aniket > article >main >#div2 > #img1
+               {
+                padding-right: 20px;
+               }
+               #aniket > article >main >#div2 > #rainy
+               {
+                padding-right: 20px;
+                font-size: 14px;
+               }
+               #aniket > article >main >#div3 > #display_loc
+               {
+                padding-right: 20px;
+                font-size: 25px;
+               }
+               #aniket > article >main >#div3 > #display_temp
+               {
+                padding-right: 20px;
+                font-size: 15px;
+
+               }
+    }
+
+    @media (max-width: 643px) and (min-width :590px)
+    {
+         #aniket >article >main
+         {
+            width: 45%;
+            height: 80vh;
+          /* position: fixed;   */
+         } 
+         #aniket > article >main >#div1 > #search
+         {
+           width: 130px;
+           font-size: 11px;
+           margin-right: 10px;
+           
+         }
+         #aniket > article >main >#div1 > #btn
+         {
+           width: 80px;
+           font-size: 10px;
+           margin-right: 20px;
+         }
+         #aniket > article >main >#div2 > #img1
+         {
+          margin-right: 20px;
+         }
+         #aniket > article >main >#div2 > #rainy
+         {
+          margin-right: 20px;
+          font-size: 17px;
+         }
+         #aniket > article >main >#div3 > #display_loc
+         {
+          margin-right: 20px;
+          font-size: 25px;
+         }
+         #aniket > article >main >#div3 > #display_temp
+         {
+          margin-right: 20px;
+          font-size: 15px;
+
+         }
+        }
+
+        @media (max-width: 590px) and (min-width :535px)
+        {
+            #aniket >article >main
+            {
+               width: 50%;
+               height: 80vh;
+             /* position: fixed;   */
+            } 
+            #aniket > article >main >#div1 > #search
+            {
+              width: 130px;
+              font-size: 11px;
+              margin-right: 10px;
+              
+            }
+            #aniket > article >main >#div1 > #btn
+            {
+              width: 80px;
+              font-size: 10px;
+              margin-right: 20px;
+            }
+            #aniket > article >main >#div2 > #img1
+            {
+             margin-right: 20px;
+            }
+            #aniket > article >main >#div2 > #rainy
+            {
+             margin-right: 20px;
+             font-size: 17px;
+            }
+            #aniket > article >main >#div3 > #display_loc
+            {
+             margin-right: 20px;
+             font-size: 25px;
+            }
+            #aniket > article >main >#div3 > #display_temp
+            {
+             margin-right: 20px;
+             font-size: 15px;
+   
+            }
+           }
+           @media (max-width: 535px) and (min-width :480px)
+           {
+               #aniket >article >main
+               {
+                  width: 50%;
+                  height: 80vh;
+                /* position: fixed;   */
+               } 
+               #aniket > article >main >#div1 > #search
+               {
+                 width: 130px;
+                 font-size: 11px;
+                 margin-right: 10px;
+                 
+               }
+               #aniket > article >main >#div1 > #btn
+               {
+                 width: 80px;
+                 font-size: 10px;
+                 margin-right: 20px;
+               }
+               #aniket > article >main >#div2 > #img1
+               {
+                margin-right: 20px;
+               }
+               #aniket > article >main >#div2 > #rainy
+               {
+                margin-right: 20px;
+                font-size: 17px;
+               }
+               #aniket > article >main >#div3 > #display_loc
+               {
+                margin-right: 20px;
+                font-size: 25px;
+               }
+               #aniket > article >main >#div3 > #display_temp
+               {
+                margin-right: 20px;
+                font-size: 15px;
+      
+               }
+              }
+   
+              @media (max-width: 480px) and (min-width :420px)
+              {
+                  #aniket >article >main
+                  {
+                     width: 60%;
+                     height: 80vh;
+                   /* position: fixed;   */
+                  } 
+                  #aniket > article >main >#div1 > #search
+                  {
+                    width: 130px;
+                    font-size: 11px;
+                    margin-right: 10px;
+                    
+                  }
+                  #aniket > article >main >#div1 > #btn
+                  {
+                    width: 80px;
+                    font-size: 10px;
+                    margin-right: 20px;
+                  }
+                  #aniket > article >main >#div2 > #img1
+                  {
+                   margin-right: 20px;
+                  }
+                  #aniket > article >main >#div2 > #rainy
+                  {
+                   margin-right: 20px;
+                   font-size: 17px;
+                  }
+                  #aniket > article >main >#div3 > #display_loc
+                  {
+                   margin-right: 20px;
+                   font-size: 25px;
+                  }
+                  #aniket > article >main >#div3 > #display_temp
+                  {
+                   margin-right: 20px;
+                   font-size: 15px;
+         
+                  }
+                 }
+                 @media (max-width: 370px) and (min-width :326px)
+                 {
+                     #aniket >article >main
+                     {
+                        width: 75%;
+                        height: 80vh;
+                      /* position: fixed;   */
+                     } 
+                     #aniket > article >main >#div1 > #search
+                     {
+                       width: 130px;
+                       font-size: 11px;
+                       margin-right: 10px;
+                       
+                     }
+                     #aniket > article >main >#div1 > #btn
+                     {
+                       width: 80px;
+                       font-size: 10px;
+                       margin-right: 20px;
+                     }
+                     #aniket > article >main >#div2 > #img1
+                     {
+                      margin-right: 20px;
+                     }
+                     #aniket > article >main >#div2 > #rainy
+                     {
+                      margin-right: 20px;
+                      font-size: 17px;
+                     }
+                     #aniket > article >main >#div3 > #display_loc
+                     {
+                      margin-right: 20px;
+                      font-size: 25px;
+                     }
+                     #aniket > article >main >#div3 > #display_temp
+                     {
+                      margin-right: 20px;
+                      font-size: 15px;
+            
+                     }
+                    }
+         
+                    @media (max-width: 420px) and (min-width :370px)
+                    {
+                        #aniket >article >main
+                        {
+                           width: 65%;
+                           height: 80vh;
+                         /* position: fixed;   */
+                        } 
+                        #aniket > article >main >#div1 > #search
+                        {
+                          width: 130px;
+                          font-size: 11px;
+                          margin-right: 10px;
+                          
+                        }
+                        #aniket > article >main >#div1 > #btn
+                        {
+                          width: 80px;
+                          font-size: 10px;
+                          margin-right: 20px;
+                        }
+                        #aniket > article >main >#div2 > #img1
+                        {
+                         margin-right: 20px;
+                        }
+                        #aniket > article >main >#div2 > #rainy
+                        {
+                         margin-right: 20px;
+                         font-size: 17px;
+                        }
+                        #aniket > article >main >#div3 > #display_loc
+                        {
+                         margin-right: 20px;
+                         font-size: 25px;
+                        }
+                        #aniket > article >main >#div3 > #display_temp
+                        {
+                         margin-right: 20px;
+                         font-size: 15px;
+               
+                        }
+                       }
+            
+                       @media (max-width: 326px) and (min-width :270px)
+                       {
+                           #aniket >article >main
+                           {
+                              width: 70%;
+                              height: 80vh;
+                            /* position: fixed;   */
+                           } 
+                           #aniket > article >main >#div1 > #search
+                           {
+                             width: 130px;
+                             font-size: 11px;
+                             margin-right: 10px;
+                             
+                           }
+                           #aniket > article >main >#div1 > #btn
+                           {
+                             width: 80px;
+                             font-size: 10px;
+                             margin-right: 20px;
+                           }
+                           #aniket > article >main >#div2 > #img1
+                           {
+                            margin-right: 20px;
+                           }
+                           #aniket > article >main >#div2 > #rainy
+                           {
+                            margin-right: 20px;
+                            font-size: 17px;
+                           }
+                           #aniket > article >main >#div3 > #display_loc
+                           {
+                            margin-right: 20px;
+                            font-size: 25px;
+                           }
+                           #aniket > article >main >#div3 > #display_temp
+                           {
+                            margin-right: 20px;
+                            font-size: 15px;
+                  
+                           }
+                          }
+               
+                          @media (max-width: 270px) and (min-width :230px)
+                          {
+                              #aniket >article >main
+                              {
+                                 width: 75%;
+                                 height: 80vh;
+                               /* position: fixed;   */
+                              } 
+                              #aniket > article >main >#div1 > #search
+                              {
+                                width: 130px;
+                                font-size: 11px;
+                                margin-right: 10px;
+                                
+                              }
+                              #aniket > article >main >#div1 > #btn
+                              {
+                                width: 80px;
+                                font-size: 10px;
+                                margin-right: 20px;
+                              }
+                              #aniket > article >main >#div2 > #img1
+                              {
+                               margin-right: 20px;
+                              }
+                              #aniket > article >main >#div2 > #rainy
+                              {
+                               margin-right: 20px;
+                               font-size: 17px;
+                              }
+                              #aniket > article >main >#div3 > #display_loc
+                              {
+                               margin-right: 20px;
+                               font-size: 25px;
+                              }
+                              #aniket > article >main >#div3 > #display_temp
+                              {
+                               margin-right: 20px;
+                               font-size: 15px;
+                     
+                              }
+                             }
+                  
